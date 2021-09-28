@@ -9,7 +9,7 @@ def main():
 
 
 
-	#if in the main subroutine, run main() function
-	if__name__=="__main__"
+#if in the main subroutine, run main() function
+if__name__=="__main__"
 	main()
 
