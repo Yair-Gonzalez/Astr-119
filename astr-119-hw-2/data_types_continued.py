@@ -15,7 +15,7 @@ print(type(no))
 
 alpha_list = ["a", "b", "c"] 	#list initialization
 print(type(alpha_list))			#will say tuple
-print(tppe(alpha_list[0]))		#will say string
+print(type(alpha_list[0]))		#will say string
 alpha_list.append("d") 			#will add "d" to the list end 
 print(alpha_list)				#will print list
 
